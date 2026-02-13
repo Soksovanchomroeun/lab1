@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">MAD_Lab</string>
+    <string name="main_title">Task Management &amp;\nTo-Do List</string>
+    <string name="main_sub_title">This productive tool is designed to help\nyou better manage your task\nproject-wise conveniently!</string>
+    <string name="button_start">Let’s Start</string>
+    <string name="todo">TODO</string>
+    <string name="hello">你好!</string>
+    <string name="username">Eam Putvicheka</string>
+    <string name="your_today_s_task_almost_done">Your today’s task almost done!</string>
+    <string name="view_task">View Task</string>
+    <string name="percentage">85%</string>
+    <string name="in_progress">In Progress</string>
+    <string name="office_project">Office Project</string>
+    <string name="grocery_shopping_app_design">Grocery shopping app design</string>
+    <string name="personal_project">Personal Project</string>
+    <string name="uber_eats_redesign_challenge">Uber Eats redesign challenge</string>
+    <string name="task_groups">Task Groups</string>
+    <string name="office_project1">Office Project</string>
+    <string name="tasks">23 Tasks</string>
+    <string name="percentage1">70%</string>
+    <string name="personal_project1">Personal Project</string>
+    <string name="tasks1">30 Tasks</string>
+    <string name="percentage2">52%</string>
+    <string name="daily_study">Daily Study</string>
+    <string name="tasks2">30 Tasks</string>
+    <string name="percentage3">87%</string>
+    <string name="daily_study1">Daily Study</string>
+    <string name="tasks3">3 Tasks</string>
+    <string name="percentage4">87%</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background">#FFFFFFFF</color>
+    <color name="title">#000000</color>
+    <color name="sub_tile">#777777</color>
+    <color name="button">#6200EE</color>
+    <color name="background1">#F3F2F2</color>
+    <color name="cardBackgroundColor">#6116E7</color>
+    <color name="textColor">#6116E7</color>
+    <color name="cardBackgroundColor1">#00DFF8</color>
+    <color name="progressTint">#3F51B5</color>
+    <color name="cardBackgroundColor2">#F58EB1</color>
+    <color name="progressTint1">#E91E63</color>
+    <color name="icon1">#50F277B7</color>
+    <color name="indeterminateTint">#CBEC087E</color>
+    <color name="icon2">#42915FF2</color>
+    <color name="indeterminateTint1">#915FF2</color>
+    <color name="icon3">#4BFDCF2E</color>
+    <color name="indeterminateTint2">#FDCF2E</color>
+    <color name="icon4">#B2FD9041</color>
+    <color name="indeterminateTint3">#FD9041</color>
+    <color name="ProgressBar">#FFFFFFFF</color>
+
+    <!-- Colors for Task Group Cards -->
+    <color name="task_color_1">#E3F2FD</color> <!-- Light Blue -->
+    <color name="task_color_2">#FCE4EC</color> <!-- Light Pink -->
+    <color name="task_color_3">#FFF9C4</color> <!-- Light Yellow -->
+    <color name="task_color_4">#E8F5E9</color> <!-- Light Green -->
+</resources>

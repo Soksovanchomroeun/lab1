@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MAD_Lab</string>
+    <string name="main_title">ការគ្រប់គ្រងភារកិច្ច និង\nបញ្ជីការងារដែលត្រូវធ្វើ</string>
+    <string name="main_sub_title">ឧបករណ៍ផលិតភាពនេះត្រូវបានរចនាឡើងដើម្បីជួយ\nអ្នកក្នុងការគ្រប់គ្រងភារកិច្ច\nរបស់អ្នកបានកាន់តែប្រសើរឡើងទាំងផ្នែកគម្រោង!</string>
+    <string name="button_start">តោះចាបផ្តើម!</string>
+    <string name="todo">TODO</string>
+    <string name="hello">សួស្តី!</string>
+    <string name="username">អៀម ពុធវិច្ឆិកា</string>
+    <string name="your_today_s_task_almost_done">ភារកិច្ចថ្ងៃនេះរបស់អ្នកជិតរួចរាល់ហើយ!</string>
+    <string name="view_task">មើលភារកិច្ច</string>
+    <string name="percentage">85%</string>
+    <string name="in_progress">កំពុងដំណើរការ</string>
+    <string name="office_project">គម្រោងការិយាល័យ</string>
+    <string name="grocery_shopping_app_design">ការរចនាកម្មវិធីទិញទំនិញគ្រឿងទេស</string>
+    <string name="personal_project">គម្រោងផ្ទាល់ខ្លួន</string>
+    <string name="uber_eats_redesign_challenge">បញ្ហាប្រឈមនៃការរចនាឡើងវិញរបស់ Uber Eats</string>
+    <string name="task_groups">ក្រុមភារកិច្ច</string>
+    <string name="office_project1">គម្រោងការិយាល័យ</string>
+    <string name="tasks">23 ភារកិច្ច</string>
+    <string name="percentage1">70%</string>
+    <string name="personal_project1">គម្រោងផ្ទាល់ខ្លួន</string>
+    <string name="tasks1">30 ភារកិច្ច</string>
+    <string name="percentage2">52%</string>
+    <string name="daily_study">ការសិក្សាប្រចាំថ្ងៃ</string>
+    <string name="tasks2">30 ភារកិច្ច</string>
+    <string name="percentage3">87%</string>
+    <string name="daily_study1">ការសិក្សាប្រចាំថ្ងៃ</string>
+    <string name="tasks3">3 ភារកិច្ច</string>
+    <string name="percentage4">87%</string>
+</resources>

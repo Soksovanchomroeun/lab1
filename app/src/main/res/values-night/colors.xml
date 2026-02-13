@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+    <color name="background">#FF000000</color>
+    <color name="title">#FFFFFFFF</color>
+    <color name="sub_tile">#FFFFFFFF</color>
+    <color name="button">#6200EE</color>
+    <color name="background1">#FF000000</color>
+    <color name="cardBackgroundColor">#6116E7</color>
+    <color name="textColor">#6116E7</color>
+    <color name="cardBackgroundColor1">#00DFF8</color>
+    <color name="progressTint">#3F51B5</color>
+    <color name="cardBackgroundColor2">#F58EB1</color>
+    <color name="progressTint1">#E91E63</color>
+    <color name="icon1">#50F277B7</color>
+    <color name="indeterminateTint">#CBEC087E</color>
+    <color name="icon2">#42915FF2</color>
+    <color name="indeterminateTint1">#915FF2</color>
+    <color name="icon3">#4BFDCF2E</color>
+    <color name="indeterminateTint2">#FDCF2E</color>
+    <color name="icon4">#B2FD9041</color>
+    <color name="indeterminateTint3">#FD9041</color>
+    <color name="ProgressBar">#FF000000</color>
+
+    <!-- Colors for Task Group Cards -->
+    <color name="task_color_1">#212121</color> <!-- Dark Grey 1 -->
+    <color name="task_color_2">#2C2C2C</color> <!-- Dark Grey 2 -->
+    <color name="task_color_3">#323232</color> <!-- Dark Grey 3 -->
+    <color name="task_color_4">#3C3C3C</color> <!-- Dark Grey 4 -->
+</resources>
